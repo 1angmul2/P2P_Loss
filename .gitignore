@@ -115,7 +115,7 @@ demo
 # custom
 *.pkl
 *.pkl.json
-*.log.json
+# *.log.json
 work_dirs/
 
 # Pytorch
